@@ -1,0 +1,20 @@
+{
+  "name": "chickendiscbot",
+  "version": "1.0.0",
+  "description": "A discord.js project",
+  "main": "src/main.js",
+  "private": false,
+  "scripts": {
+    "start": "",
+    "test": "",
+    "build": ""
+  },
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
